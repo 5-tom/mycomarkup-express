@@ -1,0 +1,3 @@
+[submodule "mycomarkup"]
+	path = mycomarkup
+	url = https://git.sr.ht/~bouncepaw/mycomarkup
